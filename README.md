@@ -1,5 +1,5 @@
 # wadsworth
-Wadsworth!! A command line based personal assistant
+Wadsworth!! A command line based personal assistant written in C++
 
 
 ## Running project
